@@ -6,8 +6,8 @@
 
 ![Running Predict Function on Local PC](./images/03/titanicfunction_run.jpg)
 
-> ここで作成する関数は、[ML.NET で二項分類 で作成した関数](https://github.com/seosoft/Titanic_MLNet/blob/master/06_createfunctions.md) と同等のものです。  
-> ここでは、Visual Studio を使って、関数を作ってみます。
+> ここで作成する関数は、Visual Studio Code で [ML.NET で二項分類 で作成した関数](https://github.com/seosoft/Titanic_MLNet/blob/master/06_createfunctions.md) と同等のものです。  
+> ここでは Visual Studio を使って、関数を作ってみます。
 
 ---
 
@@ -194,7 +194,7 @@ Azure Functions で ML.NET で作成したモデルを使用して予測する�
 
 ## Postman をインストール
 
-もし、まだ　[**Postman**](https://www.getpostman.com/downloads/) をインストールしていなければ、ここでインストールします。
+まだ　[**Postman**](https://www.getpostman.com/downloads/) をインストールしていなければ、ここでインストールします。
 
 1. [**Postman**](https://www.getpostman.com/downloads/) をダウンロード、インストールします。
 2. Postman を起動します。
